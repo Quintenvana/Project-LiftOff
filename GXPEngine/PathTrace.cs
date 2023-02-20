@@ -12,7 +12,7 @@ using System.Threading.Tasks;
     this.x = x;
     this.y = y; 
         
-        SetXY(x, y);
+        SetXY(x, y)
     }
 
     }
